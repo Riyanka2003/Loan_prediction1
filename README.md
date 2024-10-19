@@ -38,8 +38,8 @@ The dataset used for this project includes information on applicants, such as in
 ### Usage
 To run the analysis:
 
-1. Clone this repository: `git clone https://github.com/rootsubhradeep/Loan_Prediction.git`
-2. Navigate to the project directory: `cd Loan_Prediction`
+1. Clone this repository: `git clone https://github.com/Riyanka2003/Loan_prediction1.git`
+2. Navigate to the project directory: `cd Loan_Prediction1`
 3. Install the required libraries: `pip install -r requirements.txt`
 4. Open the Jupyter notebooks in the `notebooks/` directory to view the analysis and model development.
 
